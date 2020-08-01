@@ -12,4 +12,5 @@ In this notebook I have built 3 Neural Networks:
 Also I have compared the performance of each Neural Network.
 
 To understand more about this please visit my blog[Here](https://medium.com/@rutvijrajdeo/deep-learning-with-pytorch-d81f18d7b0ad) 
+
 Also for basics of PyTorch [Here](https://medium.com/@rutvijrajdeo/basics-of-pytorch-tensors-ea12be46f743)
